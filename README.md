@@ -21,3 +21,4 @@ Installation Guide:
 2. copy the all files from github to the "htdocs" folder where xampp is installed on the local machine.
 3. open xampp and start appache and mysql
 4. open browser and go to localhost.
+5. open applications.html-> phpMyAdmin. import database from "github/database file/test.sql"
